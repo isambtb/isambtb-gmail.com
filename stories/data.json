@@ -1,0 +1,23 @@
+
+ {
+  "story": [
+    {
+      "image": "https://i.imgur.com/qMgLrGy.jpg",
+      "title": "title 1",
+      "timestamp": " 2hours",
+      "numberOfReads": 2
+    },
+    {
+      "image": "https://i.imgur.com/qMgLrGy.jpg",
+      "title": "title 1",
+      "timestamp": " 2hours",
+      "numberOfReads": 2
+    },
+    {
+      "image": "https://i.imgur.com/qMgLrGy.jpg",
+      "title": "title 1",
+      "timestamp": " 2hours",
+      "numberOfReads": 2
+    }
+  ]
+}
